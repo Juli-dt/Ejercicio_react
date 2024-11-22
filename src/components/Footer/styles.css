@@ -1,0 +1,12 @@
+footer {
+    background-color: bisque;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer_button {
+    height: 50px;
+}
